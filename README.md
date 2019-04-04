@@ -1,2 +1,2 @@
-# remt
+# REMT
 Renewable Energy Monitoring Tools
