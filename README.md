@@ -11,3 +11,4 @@ To look at:
  - https://www.aliexpress.com/af/light-intensity-sensor.html?SearchText=light+intensity+sensor&d=y&initiative_id=SB_20190409215749&origin=n&catId=0&isViewCP=y&jump=afs
  - https://www.aliexpress.com/af/light-sensor.html?SearchText=light+sensor&d=y&initiative_id=SB_20190409215356&origin=n&catId=0&isViewCP=y&jump=afs
 
+This is an example of bug in comment, ( [Bug 1234567](https://bugzilla.mozilla.org/show_bug.cgi?id=1234567)  ) is our main candidate here to test out. We should have this message printed with the markdown format and link.
